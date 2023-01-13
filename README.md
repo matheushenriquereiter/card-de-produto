@@ -1,4 +1,4 @@
-<h1 align="center"> Marca Truko </h1>
+<h1 align="center"> Card de Produto </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
